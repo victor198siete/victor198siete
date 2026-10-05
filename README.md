@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Victor Moreno 👋
 
-<!--
-**victor198siete/victor198siete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack engineer and tech lead based in Cancún, Mexico.
 
-Here are some ideas to get you started:
+I build operational platforms with **Angular** (Signals, standalone components), **NestJS** and **Ionic/Capacitor** — from airline disruption management and baggage tracking to travel agency operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Currently exploring
+
+**Angular Native** — an open lab comparing it with Capacitor, with working demos (Signal Forms, Face ID, QR, i18n) and a module coverage table on iOS and Android.
+
+👉 [angular-native-lab](https://github.com/victor198siete/angular-native-lab)
+
+Built on [ng-native](https://github.com/ng-native/ng-native) by Ashley Hunter — thanks for making native Angular feel this close. ⭐
+
+## 🧰 Stack
+
+Angular · NestJS · TypeScript · Ionic/Capacitor · PostgreSQL · Docker · n8n
+
+## 📫 Find me
+
+- [Google Developer profile](https://g.dev/VicMorenoAppDev)
+- [LinkedIn](https://www.linkedin.com/in/vic-moreno-app-developer)
+- [X / Twitter](https://x.com/VicAppDeveloper)
